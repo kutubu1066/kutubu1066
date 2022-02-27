@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kutubu1066
-- 👀 I’m interested in Web development and Photoshop design.
+- 👀 I’m interested in Web development and Graphic design.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on Web development projects and photoshop designs.
+- 💞️ I’m looking to collaborate on Web development projects and Graphic designs.
 - 📫 How to reach me via email @kutubu1066@gmail.com
 
 <!---
